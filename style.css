@@ -1,0 +1,18 @@
+.con1 {
+  background: rgb(220, 255, 151);
+  padding: 100px;
+  border-radius: 25px;
+}
+.con1 h1 {
+  font-weight: 700;
+  font-style: 70px;
+}
+.con1 p {
+  font-weight: 400;
+  font-size: 22px;
+}
+.dc {
+  background: black;
+  color: white;
+  border-radius: 25px;
+}
